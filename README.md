@@ -6,4 +6,4 @@ Re-published at https://github.com/BenWiederhake/portable-endian.h to provide a 
 Turns out, this was pointless.
 
 Currently in use and maintained at:
-https://github.com/majn/tgl/blob/master/tl-parser/portable-endian.h
+https://github.com/majn/tgl/blob/master/tl-parser/portable_endian.h
